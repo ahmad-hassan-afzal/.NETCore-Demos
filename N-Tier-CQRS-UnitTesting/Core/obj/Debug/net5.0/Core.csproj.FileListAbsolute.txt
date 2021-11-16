@@ -1,0 +1,12 @@
+C:\Users\aafzal\source\repos\Core\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\aafzal\source\repos\Core\Core\bin\Debug\net5.0\Core.dll
+C:\Users\aafzal\source\repos\Core\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\aafzal\source\repos\Core\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.dll
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\aafzal\source\repos\Core\Core\obj\Debug\net5.0\Core.pdb

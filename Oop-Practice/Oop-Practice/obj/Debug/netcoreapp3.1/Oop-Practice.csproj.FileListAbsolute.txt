@@ -1,0 +1,14 @@
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.exe
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.deps.json
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.runtimeconfig.json
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.runtimeconfig.dev.json
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.dll
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\bin\Debug\netcoreapp3.1\Oop-Practice.pdb
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.csproj.AssemblyReference.cache
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.AssemblyInfoInputs.cache
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.AssemblyInfo.cs
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.csproj.CoreCompileInputs.cache
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.dll
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.pdb
+C:\Users\aafzal\source\repos\Oop-Practice\Oop-Practice\obj\Debug\netcoreapp3.1\Oop-Practice.genruntimeconfig.cache

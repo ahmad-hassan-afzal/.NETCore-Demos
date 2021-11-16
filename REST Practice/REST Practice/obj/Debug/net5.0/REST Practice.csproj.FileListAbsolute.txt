@@ -1,0 +1,72 @@
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\appsettings.json
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.exe
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.deps.json
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.runtimeconfig.json
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.runtimeconfig.dev.json
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\ref\REST Practice.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.csproj.AssemblyReference.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.AssemblyInfoInputs.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.AssemblyInfo.cs
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.csproj.CoreCompileInputs.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\staticwebassets\REST Practice.StaticWebAssets.Manifest.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\staticwebassets\REST Practice.StaticWebAssets.xml
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\scopedcss\bundle\REST Practice.styles.css
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.RazorTargetAssemblyInfo.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\ref\REST Practice.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.pdb
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.genruntimeconfig.cache
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\REST Practice.Views.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\obj\Debug\net5.0\REST Practice.csproj.CopyComplete
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\aafzal\source\repos\REST Practice\REST Practice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

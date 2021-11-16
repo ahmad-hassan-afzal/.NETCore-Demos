@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Employee>
+
+@{
+    //Layout = "~/Views/Shared/_Layout.cshtml"; // Using ViewStart.cshtml
+    ViewBag.Title = "Employee List";
+    var photoPath = "~/images/image.png";
+}
+
+
+
+<div class="row">
+    @foreach (var employee in Model)
+    {
+        if (employee.PhotoPath != null)
+        {
+            photoPath = "~/uploads/" + employee.PhotoPath;
+        }
+
+        <div class="card mx-2 my-3" style="width: 18rem;">
+            <img src="@photoPath" class="card-img-top image-thumb" asp-append-version="true" >
+            <div class="card-body">
+                <h5 class="card-title">Name: @employee.Name</h5>
+
+                <p class="card-text">Email: @employee.Email <br />
+                    Department: @employee.Department</p>
+
+                @*<a href="/Home/Details/@i.Id" class="btn btn-outline-dark">Details</a>*@  @*Hard-Coded*@
+                @*Html.ActionLink("details", "home", new { id = i.Id }) ---> It will generate complete <a/> tag with default settings & style*@
+                @*<a href="@Url.Action("details", "home", new { id = employee.Id })" class="btn btn-outline-dark">Details</a>*@ @*Using Tag-Helpers*@
+
+                <a asp-action="details" asp-route-id="@employee.EncryptedId" class="btn btn-outline-dark">Details</a>
+
+                <a asp-action="edit" asp-route-id="@employee.EncryptedId" class="btn btn-outline-info">Edit</a>
+                <a asp-action="delete" asp-route-id="@employee.EncryptedId" class="btn btn-outline-warning">Delete</a>
+
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script src="~/js/CustomScript.js"></script>
+}

@@ -1,0 +1,25 @@
+﻿
+<div class="align-items-center">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-12 text-center">
+                @if (ViewBag.ErrorTitle == "")
+                {
+                    <span class="display-3 d-block">Error: @ViewBag.ExceptionMessage</span>
+                    <div class="mb-4 display-6">An Error Occured while processing your request.</div>
+                    <div class="lead"><strong>Path: </strong>@ViewBag.Path</div>
+                    <h3 class="text-start">Stack Trace:</h3>
+                    <div class="text-start">@ViewBag.StackTrace</div>
+                }
+                else
+                {
+                    <div class="mb-4 display-6">An Error Occured while processing your request.</div>
+                    <span class="display-3 d-block text-danger">@ViewBag.ErrorTitle</span>
+                    <div class="lead">@ViewBag.ErrorMessage</div>
+                }
+
+                <a asp-controller="home" asp-action="index" class="btn btn-outline-secondary mt-3">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</div>

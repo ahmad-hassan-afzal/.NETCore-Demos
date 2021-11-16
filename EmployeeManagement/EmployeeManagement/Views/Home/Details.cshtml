@@ -1,0 +1,26 @@
+﻿@model HomeDetailsViewModel
+
+@{
+    ViewBag.Title = "Employee List";
+    var photoPath = "~/images/image.png";
+    if(Model.Employee.PhotoPath != null)
+    {
+        photoPath = "~/uploads/" + Model.Employee.PhotoPath;
+    }
+}
+
+
+<div class="card mt-4 mx-auto" style="width: 40rem;">
+    <img src="@photoPath" class="card-img-top image-thumb" asp-append-version="true" >
+    <div class="card-body">
+        <h5 class="card-title"> @Model.Employee.Name</h5>
+        
+        <p class="card-text"><strong>Email: </strong>@Model.Employee.Email <br />
+        <strong>Department:</strong> @Model.Employee.Department</p>
+
+        <a asp-action="index" class="btn btn-outline-dark">Back</a>
+        <a asp-action="edit" asp-route-id="@Model.Employee.Id" class="btn btn-outline-info">Edit</a>
+        <a asp-action="delete" asp-route-id="@Model.Employee.Id" class="btn btn-outline-warning">Delete</a>
+
+    </div>
+</div>

@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Not Found";
+}
+
+<div class="align-items-center">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-12 text-center">
+                <span class="display-1 d-block">@ViewBag.StatusCode</span>
+                <div class="mb-4 display-6">@ViewBag.ErrorMessage</div>
+                <a asp-controller="home" asp-action="index" class="btn btn-link">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</div>

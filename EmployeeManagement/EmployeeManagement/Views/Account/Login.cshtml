@@ -1,0 +1,57 @@
+﻿
+@model LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+}
+<div class="row">
+    <div class="col">
+        <h3>Local Sign-in</h3>
+        <hr />
+        <form method="post" asp-action="login" asp-controller="account">
+            <input asp-for="ReturnUrl" type="hidden" />
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email address</label>
+                <input asp-for="Email" class="form-control">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Password</label>
+                <input asp-for="Password" class="form-control">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-check">
+                <input asp-for="RememberMe" class="form-check-input">
+                <label asp-for="RememberMe" class="form-check-label">Remember Me</label>
+            </div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <button type="submit" class="btn btn-primary">Login</button>
+            <div class="mt-2">
+                <a asp-action="ForgotPassword" asp-controller="account">Forgot Password</a>
+            </div>
+        </form>
+    </div>
+    <div class="col">
+            <h3>External Sign-in</h3>
+            <hr />
+            @{
+                if (Model.ExternalLogins.Count == 0)
+                {
+                    <h6>No External Logins configured yet</h6>
+                }
+                else
+                {
+                    <p class="form-label">You can also sign-in with social media accounts</p>
+                    <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl">
+                        <div>
+                            @foreach (var i in Model.ExternalLogins)
+                            {
+                                <button class="btn btn-primary" type="submit" name="provider" value="@i.Name"
+                                        title="Sign-in with @i.Name Account"> @i.DisplayName </button>
+                            }
+                        </div>
+                    </form>
+                }
+            }
+        </div>
+</div>

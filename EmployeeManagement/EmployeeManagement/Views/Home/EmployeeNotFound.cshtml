@@ -1,0 +1,17 @@
+﻿@model int
+
+@{
+    ViewBag.Title = "404: Employee Not Found";
+}
+
+<div class="align-items-center">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-12 text-center">
+                <span class="display-1 d-block">404</span>
+                <div class="mb-4 display-6">The Employee (with ID: @Model) you are looking for was not found.</div>
+                <a asp-action="index" class="btn btn-link">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</div>
